@@ -1,5 +1,4 @@
-# Iris-classification
-# Iris Classifier Web App 🌸
+# Iris Classifier Web App 
 
 This project is a Streamlit web application that predicts the species of an Iris flower based on user-provided sepal and petal measurements. The goal was to build an interactive interface that allows anyone to input values and receive an instant prediction using a trained machine learning model.
 
@@ -9,7 +8,8 @@ Data cleaning steps included checking for missing values, verifying data types, 
 
 The model was trained using scikit-learn, and the trained model was saved with `joblib`. Model evaluation showed an accuracy of approximately 97% on the test dataset, demonstrating that the classifier can reliably predict the Iris species. The prediction code was written to allow both individual row predictions from Jupyter Notebook and interactive user input through the Streamlit app.
 
-The Streamlit app was run locally using the command streamlit run app.py in Anaconda Prompt or VS Code terminal, displaying an interactive interface where users can input feature values and receive predictions instantly. The app can also be deployed online, and you can access the live version [here](YOUR_DEPLOYED_STREAMLIT_LINK).
+The Streamlit app was run locally using the command `streamlit run app.py` in Anaconda Prompt or VS Code terminal, displaying an interactive interface where users can input feature values and receive predictions instantly. 
+The app can also be deployed online, and you can access the live version [here](https://iris-classification-cm26lvidosswt9dk8cghmh.streamlit.app/).
 
 ---
 
@@ -31,6 +31,6 @@ Python 3.12, VS Code, Anaconda, Streamlit, pandas, scikit-learn, joblib, Jupyter
 
 ## Contact
 
-- **Email:** joyuko@example.com  
+- **Email:** joyuko22@gmail.com  
 - **LinkedIn:** [linkedin.com/in/joy-uko](https://linkedin.com/in/joy-uko)  
-- **GitHub:** [github.com/joyuko](https://github.com/joyuko)
+- **GitHub:** [github.com/joyuko](https://github.com/joy-analyst)
