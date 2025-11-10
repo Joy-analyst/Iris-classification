@@ -1,4 +1,8 @@
 # Iris Classifier Web App 
+![Alt text](https://github.com/Joy-analyst/Iris-classification/blob/main/Screenshot%202025-11-10%20081429.png)
+
+
+https://github.com/Joy-analyst/Iris-classification/blob/main/Screenshot%202025-11-10%20081429.png
 
 This project is a Streamlit web application that predicts the species of an Iris flower based on user-provided sepal and petal measurements. The goal was to build an interactive interface that allows anyone to input values and receive an instant prediction using a trained machine learning model.
 
